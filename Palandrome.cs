@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ProgrammingChallege1
 {
- class Palandrome
+public class Palandrome
     {
        string teststring ="";
         public Palandrome(string teststring)
